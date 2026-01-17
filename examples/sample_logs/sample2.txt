@@ -1,0 +1,2 @@
+User: My email is test@example.com and my card is 4111 1111 1111 1111.
+Assistant: I'll help update your account.
